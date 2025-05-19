@@ -112,4 +112,4 @@ Aponte o Apache (ou outro servidor) para a pasta do projeto. No XAMPP, coloque a
 
 Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-# 🚀 Dê uma estrela ⭐ no repositório se este projeto te ajudou!
+## 🚀 Dê uma estrela ⭐ no repositório se este projeto te ajudou!
