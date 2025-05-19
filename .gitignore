@@ -1,0 +1,7 @@
+.env
+/vendor
+/PHPMailer
+
+myreadme.md 
+loja_php.sql
+
